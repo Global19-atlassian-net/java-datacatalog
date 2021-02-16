@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/googleapis/java-datacatalog/compare/v1.0.13...v1.1.0) (2021-02-16)
+
+
+### Features
+
+* generate sample code in the Java microgenerator ([#419](https://www.github.com/googleapis/java-datacatalog/issues/419)) ([0dfec30](https://www.github.com/googleapis/java-datacatalog/commit/0dfec300b1d1b90d026b73c8d080fe7aa5b5af8e))
+
 ### [1.0.13](https://www.github.com/googleapis/java-datacatalog/compare/v1.0.12...v1.0.13) (2021-01-14)
 
 
